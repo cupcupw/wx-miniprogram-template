@@ -1,13 +1,12 @@
 {
   "pages": [],
   "window": {
-    "navigationBarTitleText": "照片达人",
+    "navigationBarTitleText": "小程序模版",
     "navigationBarTextStyle": "black",
     "navigationBarBackgroundColor": "#ffffff"
   },
   "lazyCodeLoading": "requiredComponents",
   "usingComponents": {
-    "pro-end": "/components/pro-end/index"
   },
   "tabBar": {
     "color": "#9EA6B9",

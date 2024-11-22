@@ -10,6 +10,7 @@ const NEED_LOGIN_PAGES = ['/pages/mine/index']
 const UN_NEED_LOGIN_PAGES = ['/pages/login/index']
 
 export default definePlugin((col) => {
+  //使用库中提供的插件
   col.use(plugins, {
     promise: {
       formatMessage(err) {
